@@ -19,11 +19,11 @@ const PrivacyPolicy = () => {
         contacts.
       </p>
 
-      <p>
+      {/* <p>
         However, the app uses third-party services that may automatically collect
         certain information required for app functionality, analytics, and
         advertising.
-      </p>
+      </p> */}
 
       <ul>
         <li>
