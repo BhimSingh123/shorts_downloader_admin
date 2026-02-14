@@ -19,7 +19,7 @@ const Home = () => {
         </p>
 
         <a
-          href="https://play.google.com/store"
+          href="https://play.google.com/store/apps/details?id=com.stackearn.shorts_downloader"
           target="_blank"
           rel="noopener noreferrer"
           style={styles.ctaButton}
